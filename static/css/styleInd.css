@@ -1,0 +1,117 @@
+.index-main{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.71), rgba(0, 0, 0, 0.7)), url('front.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .content{
+    max-width: 800px;
+    margin: auto;
+}
+
+.header-content{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+}
+
+.header-content-text{
+    font-size: 3vw;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 0.5px;
+}
+
+.upload-section{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.upload-file{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.file-form{
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.file-form-input{
+    max-width: 50%;
+    border-radius: 200px;
+    border: 1px solid #41b3a3;
+    color: white;
+    display: inline-block;
+    padding: 8px 20px 8px 20px;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 20px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.uploadOR{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.uploadOR > span{
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.upload-link{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.link-form{
+    padding-bottom: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-form-input{
+    width: 60%;
+    border: 1px solid #41b3a3;
+    display: inline-block;
+    padding: 4px 15px 4px 15px;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 20px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.footer{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.header-content-sub{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+}
+
+.header-content-info{
+    font-size: 18px;
+}
