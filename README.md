@@ -5,6 +5,8 @@ La idea principal del transfer learning es tomar prestados datos etiquetados o c
 **Instalar todos los paquetes desde un archivo requirements.txt usando pip y Python:**<br>
 ```pip install -r requirements.txt```
 
+https://github.com/joaquinvictorias/Pokemon_Image_Classifier/assets/120015424/e53c3a59-6cbf-4502-a4d3-719e42eca39a
+
 
 
 
